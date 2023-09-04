@@ -6,7 +6,7 @@ SSCC 2023년 2학기 기존 회원 대상 연습용 Github repo입니다.
 
 ### 재등록(기존) 회원 신청 방법
 1. 해당 repository (이하 `repo`)를 fork 한다.
-2. 개인 repo에 변경사항을 만든 다음 commit한다.
+2. 개인 repo에 변경사항을 만든 다음 commit한다. 변경사항
 3. BASELINE에 기초해 PR 메시지를 작성한다.
    - 베이스 라인은 해당 repo Issue 탭에서 확인 할 수 있습니다. [바로가기](https://github.com/SoongSilComputingClub/2023-2-existing-member-renew/issues/1)
 4. 브랜치를 renew-here 브랜치에 pr을 전송한다.
